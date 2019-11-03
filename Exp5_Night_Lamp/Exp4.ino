@@ -22,5 +22,5 @@ void loop(){
     inputString = "";
   }
 }
-//Made by - Ankur Das
-//UID - 19BCS3523
+//Made by - Aman Kumar
+//UID - 19BCS3520
